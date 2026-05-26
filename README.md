@@ -1,13 +1,3 @@
-This repository contains my Java practice, fundamentals, problem-solving.
+# Java Learning Journey ☕
 
-## 📚 Topics Covered
-
-- Java Basics
-
-- Loops
-
-- Arrays
-
-- Strings
-
-- Methods / Functions
+This repository contains my Java learning practice, problem-solving, and mini projects.
