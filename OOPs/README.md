@@ -56,3 +56,6 @@ Features:
 - Encapsulation
 
 - OOP Principles
+
+## Author
+Kashish Srivastava
