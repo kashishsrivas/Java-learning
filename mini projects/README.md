@@ -71,3 +71,6 @@ Features:
 - Conditions
 
 - Scanner Class
+
+## Author
+Kashish Srivastava
