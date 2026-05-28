@@ -36,13 +36,12 @@ This folder includes beginner-to-intermediate OOP programs and examples to under
 
 Features:
 
-- Add Student
-
-- Display Student Details
-
-- Update Student Data
-
-- Delete Student Records
+* Add students
+* Store marks
+* Display student details
+* Calculate average
+* Find highest marks
+* Grade system
 
 ## Concepts Used
 
