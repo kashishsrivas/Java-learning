@@ -23,3 +23,6 @@ This folder contains my Java fundamentals practice while learning core programmi
 - Pattern Problems
 
 - Number Problems
+
+## Author
+Kashish Srivastava
