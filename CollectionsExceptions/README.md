@@ -16,14 +16,6 @@ This folder contains my Java practice programs for Collections Framework and Exc
 - throw & throws
 - custom exceptions
 
-## Practice Files
-- ArrayListDemo.java
-- HashMapDemo.java
-- SetDemo.java
-- IteratorDemo.java
-- TryCatchDemo.java
-- CustomExceptionDemo.java
-
 ## Mini Project
 ### 👨‍💼 Employee Management System
 Features:
