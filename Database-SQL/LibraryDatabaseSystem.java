@@ -12,7 +12,7 @@ public class LibraryDatabaseSystem {
 
     static final String User = "postgres";
 
-    static final String password = "kashish0410";
+    static final String password = "your_password";
 
     static Scanner sc = new Scanner(System.in);
 
