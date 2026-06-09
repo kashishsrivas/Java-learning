@@ -1,4 +1,4 @@
-# 📚 Library Database System**
+# 📚 Library Database System
 
 A simple Java console-based application that manages library books using PostgreSQL and JDBC.
 
