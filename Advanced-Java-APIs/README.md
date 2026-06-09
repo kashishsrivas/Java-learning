@@ -1,4 +1,4 @@
-# 🚀 Day 6 — Advanced Java & APIs
+# 🚀 Advanced Java & APIs
 
 This module focuses on advanced Java concepts that are widely used in modern backend development and Spring Boot applications.
 
