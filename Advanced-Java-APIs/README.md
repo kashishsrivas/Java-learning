@@ -37,26 +37,6 @@ This module focuses on advanced Java concepts that are widely used in modern bac
 * LocalDateTime
 * Formatting Dates
 
-6. JSON Basics
-
-* Understanding JSON Structure
-* Java Object to JSON Concepts
-* API Data Representation
-
-7. REST API Fundamentals
-
-* What is an API?
-* HTTP Methods
-* Request & Response Concepts
-* Backend Communication
-
-
-## 🛠 Technologies Used
-
-* Collections Framework
-* Stream API
-* Java Time API
-
 ## 🎯 Mini Project
 
 ## 👨‍💼 Employee Analytics System
