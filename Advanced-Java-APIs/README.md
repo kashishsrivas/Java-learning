@@ -45,14 +45,13 @@ A console-based Java application that demonstrates the use of modern Java featur
 
 ## Features
 
-* Add Employees
-* Display Employee Details
-* Filter Employees by Salary
-* Find Highest Salary
-* Calculate Average Salary
-* Search Employees
-* Stream-Based Data Processing
-* Lambda Expressions
+1. Add Employee
+2. View Employees
+3. Find Highest Salary Employee
+4. Find Average Salary
+5. Filter Employees by Salary
+6. Search Employee by ID
+7. Exit
 
 ## 👨‍💻 Author
 
